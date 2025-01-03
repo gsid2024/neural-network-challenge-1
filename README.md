@@ -1,0 +1,2 @@
+mod18
+This project implements a student loan recommendation system using machine learning techniques. The system leverages various student attributes, such as demographics, financial data, and loan history, to recommend the most suitable loan options based on individual needs. The model is built using a neural network, trained on historical data, and optimized for binary classification tasks. The goal is to help students find the best loan options tailored to their financial profile while ensuring fairness and data privacy.
